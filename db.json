@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": "1",
         "name": "Greek Salad",
         "source": "Food Network (two different recipes)",
@@ -39,7 +39,7 @@
         ]
     },
 
-    "2": {
+    {
         "id": "2",
         "name": "Spinach lasagna with mushroom ragu",
         "source": "Food Network Magazine Nov 2011",
@@ -87,7 +87,7 @@
         ]
     },
 
-    "3": {
+    {
         "id": "3",
         "name": "Cranberry almond muffins",
         "source": "Martha Stewart Living Nov 2011",
@@ -126,7 +126,7 @@
         ]
     },
 
-    "4": {
+    {
         "id": "4",
         "name": "French onion soup",
         "source": "http:\/\/www.marthastewart.com\/340253\/french-onion-soup?center=0&gallery=274637&slide=262463",
@@ -159,7 +159,7 @@
         ]
     },
 
-    "5": {
+    {
         "id": "5",
         "name": "Easy chickpea and vegetable curry",
         "source": "Vegetarian Table by Pampered Chef",
@@ -198,4 +198,4 @@
             "main"
         ]
     }
-}
+]

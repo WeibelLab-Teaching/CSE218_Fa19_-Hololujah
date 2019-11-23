@@ -137,14 +137,14 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/rksubram/DESKTOP/Voice Recognition/VoiceRecog/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.WindowsMR.Editor">
+      <HintPath>C:/Users/rksubram/DESKTOP/Voice Recognition/VoiceRecog/Library/ScriptAssemblies/Unity.XR.WindowsMR.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/rksubram/DESKTOP/Voice Recognition/VoiceRecog/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>C:/Users/rksubram/DESKTOP/Voice Recognition/VoiceRecog/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.WindowsMR.Editor">
-      <HintPath>C:/Users/rksubram/DESKTOP/Voice Recognition/VoiceRecog/Library/ScriptAssemblies/Unity.XR.WindowsMR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.WindowsMR">
       <HintPath>C:/Users/rksubram/DESKTOP/Voice Recognition/VoiceRecog/Library/ScriptAssemblies/Unity.XR.WindowsMR.dll</HintPath>
