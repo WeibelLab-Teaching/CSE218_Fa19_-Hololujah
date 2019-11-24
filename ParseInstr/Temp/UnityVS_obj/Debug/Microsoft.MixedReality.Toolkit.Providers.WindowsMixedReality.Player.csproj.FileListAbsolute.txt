@@ -1,0 +1,2 @@
+C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Player.csprojAssemblyReference.cache
+C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Player.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Unity.TextMeshPro.Player.csproj.CoreCompileInputs.cache
+C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Unity.TextMeshPro.Player.csprojAssemblyReference.cache
