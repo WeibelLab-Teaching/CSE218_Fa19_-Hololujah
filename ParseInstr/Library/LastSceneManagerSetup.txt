@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Table.unity
+- path: C:/Users/rksubram/AppData/Local/Temp/Temp1_MRDL_Unity_PeriodicTable-master.zip/MRDL_Unity_PeriodicTable-master/Assets/MRDL_PeriodicTable/Scenes/Main.unity
   isLoaded: 1
   isActive: 1
