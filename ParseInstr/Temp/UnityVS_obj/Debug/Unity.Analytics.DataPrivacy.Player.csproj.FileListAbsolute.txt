@@ -1,2 +1,0 @@
-C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Unity.Analytics.DataPrivacy.Player.csproj.CoreCompileInputs.cache
-C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Unity.Analytics.DataPrivacy.Player.csprojAssemblyReference.cache

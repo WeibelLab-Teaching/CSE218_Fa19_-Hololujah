@@ -1,2 +1,0 @@
-C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.Player.csproj.CoreCompileInputs.cache
-C:\Users\rksubram\DESKTOP\ParseIsntr\ParseInstr\Temp\UnityVS_obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.Player.csprojAssemblyReference.cache
