@@ -109,6 +109,8 @@ namespace RecipeTable
 
             if (isFirstrun == true)
             {
+		int i = 0;
+		int j = 0;
 
                 // Insantiate the element prefabs in their correct locations and with correct text
                 foreach (DishData dish in dishes)
@@ -116,8 +118,11 @@ namespace RecipeTable
                     GameObject newElement = Instantiate<GameObject>(ElementPrefab, Parent);
                     //newElement.GetComponentInChildren<Dish>().SetFromDishData(dish, typeMaterials);
                     newElement.GetComponentInChildren<Dish>().SetFromDishData(dish);
-                    newElement.transform.localPosition = new Vector3(Int32.Parse(dish.id) * ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - Int32.Parse(dish.id) * ElementSeperationDistance, 2.0f);
+                    //newElement.transform.localPosition = new Vector3(Int32.Parse(dish.id) * ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - Int32.Parse(dish.id) * ElementSeperationDistance, 2.0f);
+                    newElement.transform.localPosition = new Vector3( i* ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - j * ElementSeperationDistance, 2.0f);
                     newElement.transform.localRotation = Quaternion.identity;
+
+		    j += 1;
                 }
                 isFirstrun = false;
             }

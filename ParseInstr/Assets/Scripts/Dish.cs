@@ -144,7 +144,7 @@ namespace RecipeTable
         public void SetFromDishData(DishData data)
         {
             this.data = data;
-            DishID.text = data.id;
+            //DishID.text = data.id;
             DishName.text = data.name;
             /*DishSource.text = data.source;
             
