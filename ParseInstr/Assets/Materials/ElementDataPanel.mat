@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ElementDataPanel
-  m_Shader: {fileID: 4800000, guid: 0ad3402479d87c74991269aa5c7c462a, type: 3}
+  m_Shader: {fileID: 4800000, guid: cc544a8c430756247bc7be30b384f9bf, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _EMISSION _LIGHTMAPPING_DYNAMIC_LIGHTMAPS _UVSEC_UV1
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 6cd8de75794fb0841af058c2cfdbdf3b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 37e969cad9df8424d84a0e960411818e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Occlusion:
@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ReflectionTexture:
-        m_Texture: {fileID: 8900000, guid: 121fb68e2020ec34db2730e81ca8551d, type: 3}
+        m_Texture: {fileID: 8900000, guid: 7f20cfc132ddb95418177606643f7e5c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:

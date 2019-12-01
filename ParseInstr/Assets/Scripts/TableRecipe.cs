@@ -76,7 +76,7 @@ namespace RecipeTable
         public Material MatActinide;
         public Material MatLanthanide;
         */
-    
+
 
         private void Start()
         {
@@ -109,8 +109,8 @@ namespace RecipeTable
 
             if (isFirstrun == true)
             {
-		int i = 0;
-		int j = 0;
+                int i = 0;
+                int j = 0;
 
                 // Insantiate the element prefabs in their correct locations and with correct text
                 foreach (DishData dish in dishes)
@@ -119,10 +119,10 @@ namespace RecipeTable
                     //newElement.GetComponentInChildren<Dish>().SetFromDishData(dish, typeMaterials);
                     newElement.GetComponentInChildren<Dish>().SetFromDishData(dish);
                     //newElement.transform.localPosition = new Vector3(Int32.Parse(dish.id) * ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - Int32.Parse(dish.id) * ElementSeperationDistance, 2.0f);
-                    newElement.transform.localPosition = new Vector3( i* ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - j * ElementSeperationDistance, 2.0f);
+                    newElement.transform.localPosition = new Vector3(i * ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - j * ElementSeperationDistance, 2.0f);
                     newElement.transform.localRotation = Quaternion.identity;
 
-		    j += 1;
+                    j += 1;
                 }
                 isFirstrun = false;
             }
@@ -134,7 +134,7 @@ namespace RecipeTable
                 foreach (Transform existingElementObject in Parent)
                 {
                     existingElementObject.parent.GetComponentInChildren<Dish>().SetFromDishData(dishes[i]);
-                    existingElementObject.localPosition = new Vector3(Int32.Parse(dishes[i].id) * ElementSeperationDistance - ElementSeperationDistance * 18 /2 , ElementSeperationDistance * 9 - Int32.Parse(dishes[i].id) * ElementSeperationDistance, 2.0f);
+                    existingElementObject.localPosition = new Vector3(Int32.Parse(dishes[i].id) * ElementSeperationDistance - ElementSeperationDistance * 18 / 2, ElementSeperationDistance * 9 - Int32.Parse(dishes[i].id) * ElementSeperationDistance, 2.0f);
                     existingElementObject.localRotation = Quaternion.identity;
                     i++;
                 }
@@ -142,7 +142,7 @@ namespace RecipeTable
                 LegendTransform.localPosition = new Vector3(0.0f, 0.15f, 1.8f);
             }
 
-        }    
+        }
     }
 
 }

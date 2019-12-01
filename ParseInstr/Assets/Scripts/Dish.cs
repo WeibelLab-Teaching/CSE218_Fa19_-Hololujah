@@ -75,34 +75,34 @@ namespace RecipeTable
             StartCoroutine(UpdateActive());
         }
 
-       /* public void Highlight()
-        {
-            if (ActiveDish == this)
-                return;
+        /* public void Highlight()
+         {
+             if (ActiveDish == this)
+                 return;
 
-            for (int i = 0; i < PanelSides.Length; i++)
-            {
-                PanelSides[i].sharedMaterial = highlightMaterial;
-            }
-            PanelBack.sharedMaterial = highlightMaterial;
-            PanelFront.sharedMaterial = highlightMaterial;
-            BoxRenderer.sharedMaterial = highlightMaterial;
-        }
+             for (int i = 0; i < PanelSides.Length; i++)
+             {
+                 PanelSides[i].sharedMaterial = highlightMaterial;
+             }
+             PanelBack.sharedMaterial = highlightMaterial;
+             PanelFront.sharedMaterial = highlightMaterial;
+             BoxRenderer.sharedMaterial = highlightMaterial;
+         }
 
-        public void Dim()
-        {
-            if (ActiveDish == this)
-                return;
+         public void Dim()
+         {
+             if (ActiveDish == this)
+                 return;
 
-            for (int i = 0; i < PanelSides.Length; i++)
-            {
-                PanelSides[i].sharedMaterial = dimMaterial;
-            }
-            PanelBack.sharedMaterial = dimMaterial;
-            PanelFront.sharedMaterial = dimMaterial;
-            BoxRenderer.sharedMaterial = dimMaterial;
-        }
-        */
+             for (int i = 0; i < PanelSides.Length; i++)
+             {
+                 PanelSides[i].sharedMaterial = dimMaterial;
+             }
+             PanelBack.sharedMaterial = dimMaterial;
+             PanelFront.sharedMaterial = dimMaterial;
+             BoxRenderer.sharedMaterial = dimMaterial;
+         }
+         */
         public IEnumerator UpdateActive()
         {
             present.Present();
@@ -163,7 +163,7 @@ namespace RecipeTable
             Dishinstructions.text = data.instructions;
             */
             Debug.Log(DishName.text);
-            
+
             //Dishingredients = data.ingredients.ToString();
             //public TextMeshProUGUI Dishtags;
 
@@ -176,20 +176,20 @@ namespace RecipeTable
 
             // Create a new highlight material and add it to the dictionary so other can use it
             //string highlightKey = data.category.Trim() + " highlight";
-           // if (!typeMaterials.TryGetValue(highlightKey, out highlightMaterial))
-           // {
-           //     highlightMaterial = new Material(dimMaterial);
-           //      highlightMaterial.color = highlightMaterial.color * 1.5f;
-           //     typeMaterials.Add(highlightKey, highlightMaterial);
-           // }
+            // if (!typeMaterials.TryGetValue(highlightKey, out highlightMaterial))
+            // {
+            //     highlightMaterial = new Material(dimMaterial);
+            //      highlightMaterial.color = highlightMaterial.color * 1.5f;
+            //     typeMaterials.Add(highlightKey, highlightMaterial);
+            // }
 
-           // Dim();
+            // Dim();
 
-           // foreach (Renderer infoPanel in InfoPanels)
-          //  {
-                // Copy the color of the element over to the info panels so they match
-          //      infoPanel.material.color = dimMaterial.color;
-           // }
+            // foreach (Renderer infoPanel in InfoPanels)
+            //  {
+            // Copy the color of the element over to the info panels so they match
+            //      infoPanel.material.color = dimMaterial.color;
+            // }
 
             BoxRenderer.enabled = false;
 
