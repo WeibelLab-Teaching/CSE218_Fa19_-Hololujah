@@ -139,7 +139,7 @@ namespace RecipeTable
         public void searchWithDishName(string searchstr)
         {
             // Parse the elements out of the json file
-            TextAsset asset = Resources.Load<TextAsset>("JSON/db-final");
+            TextAsset asset = Resources.Load<TextAsset>("JSON/db");
             List<DishData> dishes = DishesData.FromJSON(asset.text).dishes;
 
             Dictionary<string, Material> typeMaterials = new Dictionary<string, Material>()
