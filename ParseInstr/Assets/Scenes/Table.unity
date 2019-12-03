@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.003995727, g: 0.00021792854, b: 0.00000005150589,
+  m_IndirectSpecularColor: {r: 0.003995724, g: 0.00021792817, b: 0.00000005150589,
     a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
@@ -1051,7 +1051,7 @@ MonoBehaviour:
   Parent: {fileID: 1336218036}
   ElementPrefab: {fileID: 4410541983349323032, guid: f4735c2d97f00214fb82d51655c26ac4,
     type: 3}
-  ElementSeperationDistance: 0.2
+  ElementSeperationDistance: 0.3
   LegendTransform: {fileID: 1936697091}
   Collection: {fileID: 0}
   Matsweet: {fileID: 2100000, guid: 0c4cff1c31449f640b646acc22dedfba, type: 2}
