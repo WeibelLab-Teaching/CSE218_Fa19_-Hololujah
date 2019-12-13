@@ -2,9 +2,7 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Demo](#Demo)
-* [Experiments](#Experiments)
-* [Directory structure](#Directory-structure)
-* [References](#References)
+* [UX Experiments](#UX Experiments)
 ## Description
 
 ### What is CookAR? 
