@@ -2,7 +2,7 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Demo](#Demo)
-* [UX Experiments](#UX Experiments)
+* [UX Experiments](#UX-Experiments)
 ## Description
 
 ### What is CookAR? 
