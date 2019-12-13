@@ -27,8 +27,9 @@ Also, with each dish, once it is selected we have a interface that helps view in
 
 ## Installation
 
-* All dependencies are listed at,
-![Dependency files](dependencies.txt)
+All dependencies are related to MRTK and can be installed using ![The MRTK Getting Started Page](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html#prerequisites)
+
+The right unity version can be selected ![here](https://unity3d.com/get-unity/download/archive) for download as 2018.4
 
 
 ## Demo 
