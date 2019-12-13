@@ -34,7 +34,9 @@ Also, with each dish, once it is selected we have a interface that helps view in
 
 
 ## Demo 
-[![Demo video](https://i.imgur.com/IX35SDZ.png) ](https://youtu.be/bmc1WXyR_zc) 
+[![Demo video](https://imgur.com/a/xoVNdcR) ](https://youtu.be/bmc1WXyR_zc) 
+
+Click on the above icon to play the demo video for our project 
 ## UX Experiments
 
 * Color vs Lookup - 47% Faster Lookup based on Taste Palette
