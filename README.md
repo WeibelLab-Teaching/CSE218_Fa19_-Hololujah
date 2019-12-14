@@ -38,7 +38,7 @@ The right unity version can be selected [here](https://unity3d.com/get-unity/dow
 
 
 ## Demo 
-[![Demo video](https://i.imgur.com/IX35SDZ.png )=460x460 ](https://youtu.be/bmc1WXyR_zc) 
+[![Demo video](https://i.imgur.com/IX35SDZ.png ) ](https://youtu.be/bmc1WXyR_zc) 
 
 Click on the above icon to play the demo video for our project 
 
