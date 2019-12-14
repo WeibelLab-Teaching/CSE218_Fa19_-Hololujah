@@ -6,7 +6,7 @@
 * [Authors](#Authors)
 * [Testing and Feedback](#Testing)
 * [Thanks](#Thanks)
-* [Technologies used](#Technology Used)
+* [Technologies used](#Technology-Used)
 * [Wiki](https://github.com/WeibelLab-Teaching/CSE218_Fa19_Hololujah/wiki)
 ## Description
 
