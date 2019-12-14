@@ -56,7 +56,7 @@ Select your favorite recipe using three modes:-
 
 ![Testing](https://i.imgur.com/alEG4HQ.png)
 
-Also based on our demo presentation, we can add:- 
+Also based on feedback during our demo presentation, we can add:- 
 * cursor support to know where someone is clicking
 * integration of the video with stepwise pause and play
 * probable collaboration based applications
