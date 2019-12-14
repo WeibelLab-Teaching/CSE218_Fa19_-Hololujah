@@ -2,7 +2,7 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Demo](#Demo)
-* [Team] [#Team]
+* [Authors] [#Authors]
 ## Description
 
 ### What is CookAR? 
@@ -42,7 +42,3 @@ Click on the above icon to play the demo video for our project
 Raghav Kalayanasundaram Subramanian
 Dharmendra Chaturvedi
 Dan Xu
-
-## Acknowledgements
-Tab Atkins 
-
