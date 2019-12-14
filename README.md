@@ -2,6 +2,7 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Demo](#Demo)
+* [Features](#Features)
 * [Authors](#Authors)
 * [Thanks](#Thanks)
 * [Wiki](https://github.com/WeibelLab-Teaching/CSE218_Fa19_Hololujah/wiki)
@@ -38,6 +39,15 @@ The right unity version can be selected [here](https://unity3d.com/get-unity/dow
 [![Demo video](https://i.imgur.com/IX35SDZ.png) ](https://youtu.be/bmc1WXyR_zc) 
 
 Click on the above icon to play the demo video for our project 
+
+## Features
+
+Select your favorite recipe using three options for different times:- 
+
+ * Ideas and Inspiration when you're Lazy:- Check out the Taste palette if you ever run out of recipe ideas and to get a spread of recipes to check out. 
+ * Exciting and quick when you just need something to cook:- Just get a surprise recipe to cook. Adds to the suspense, and you can use this to get something arbitrary to cook
+ * Targeted search when you have something in mind:- Use textboxes and search tags to get your recipe of choice 
+ 
 
 ## Authors
 
