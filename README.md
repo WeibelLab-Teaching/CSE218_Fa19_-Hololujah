@@ -1,50 +1,49 @@
-## Table of contents
-* [Description](#Description)
-* [Installation](#Installation)
-* [Demo](#Demo)
-* [Authors](#Authors)
-* [Thanks](#Thanks)
-* [Wiki](https://github.com/WeibelLab-Teaching/CSE218_Fa19_Hololujah/wiki)
-## Description
+<img src="https://github.com/Microsoft/MRDesignLabs_Unity_PeriodicTable/blob/master/External/ReadMeImages/PeriodicTable_Hero.jpg" alt="Periodic Table of the Elements">
 
-### What is CookAR? 
-<p align="center">
-  <img width="460" height="460" src="https://i.imgur.com/IX35SDZ.png">
-</p>
-CookAR is a project aimed at providing a faster and better cooking experience for everyday lives. Essentially, this is done by using an open source cooking recipe database in the backend and a Unity Frontend. 
+# Mixed Reality Design Labs
+This repo is where Microsoft's Windows Mixed Reality Design team publishes sample apps and experiments. Find out details on https://developer.microsoft.com/en-us/windows/mixed-reality/periodic_table_of_the_elements
 
-### Why CookAR? 
-One-third of all food produced is wasted, and traditional challenges with cooking such as lack of recipes to select from, indecision on what to cook, dirty hands and distractions that can prove to be deadly still exist. Therefore, here we look at a way to alleviate these chaklenges by using a AR application used on the Microsoft Hololens I. 
+# Periodic Table of the Elements
+Periodic Table of the Elements is an open-source sample app from Microsoft's Mixed Reality Design Labs. It demonstrates how to use **[Mixed Reality Toolkit(MRTK)](https://github.com/Microsoft/MixedRealityToolkit-Unity)**'s input system and building blocks to create an app experience for HoloLens and Immersive headsets. In this project, you can find the examples of:
+- Use MRTK's **[Input System](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/Input/Overview.html)**
+- Layout an array of objects in 3D space with various surface types using **MRTK's [Object Collection](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_ObjectCollection.html)**. 
+- Create objects that respond to the standard inputs using **MRTK's [Interactable](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_Interactable.html)**. 
+- **MRTK [Button](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_Button.html)**
+- **MRTK [Manipulation Handler](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_ManipulationHandler.html)**
+- Loading and parsing local JSON file data using Unity's JsonUtility
 
-The most important use of CookAR is reduction of time with finding an interesting/appropriate recipe and following traditional mediums of information for recipes.
+You can use this project's components to create your own mixed reality app experiences. 
 
-### What does CookAR do?
-CookAR helps reduces recipe lookup times by providing users with a range of recipe options that decreases the recipe selection time, using three different usecases:-
+# Porting story (HoloLens 2 with MRTK v2)
+[Bringing the Periodic Table of the Elements app to HoloLens 2 with MRTK v2](https://medium.com/@dongyoonpark/bringing-the-periodic-table-of-the-elements-app-to-hololens-2-with-mrtk-v2-a6e3d8362158)
 
-* Selecting a recipe while looking at the entire database of options
-* Selecting a recipe using text based search, from this list to display to the user
-* Providing the user with one random recipe to quickly cook 
-
-Also, with each dish, once it is selected we have a interface that helps view instructions and a video to understand the process, and quickly make this recipe.
-
-## Installation
-
-All dependencies are related to MRTK and can be installed using [The MRTK Getting Started Page](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html#prerequisites)
-
-The right unity version can be selected [here](https://unity3d.com/get-unity/download/archive) for download as 2018.4.8
+# Design story (HoloLens 1st gen version)
+[Periodic Table of the Elements](https://docs.microsoft.com/en-us/windows/mixed-reality/periodic-table-of-the-elements)
 
 
-## Demo 
-[![Demo video](https://i.imgur.com/IX35SDZ.png) ](https://youtu.be/bmc1WXyR_zc) 
+# Supported Unity version
+The current supported version of Unity is [**Unity 2018.4.x**](https://unity3d.com/unity/qa/lts-releases?version=2018.4). 
 
-Click on the above icon to play the demo video for our project 
+# Used MRTK version
+The project(master branch) is based on [**MRTK v2.0.0**](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/v2.0.0). 
 
-## Authors
+# Supported device
+- [HoloLens 2](https://www.hololens.com)
+- [HoloLens](https://www.hololens.com)
+- [Immersive headset with motion controllers](https://www.microsoft.com/en-us/windows/windows-mixed-reality)
 
-* [Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
-* [Dharmendra Chaturvedi](https://github.com/dheeru487)
-* [Dan Xu](https://github.com/xudaaaaan)
 
-## Thanks
 
-Thanks to Tab Atkins for approving the use of this recipe database for our project!
+# More from Mixed Reality Design Labs #
+## Sample app - Lunar Module ##
+<img src="https://github.com/Microsoft/MRDesignLabs_Unity_LunarModule/blob/master/External/ReadMeImages/LM_hero.jpg" alt="Lunar Module sample app">
+https://github.com/Microsoft/MRDesignLabs_Unity_LunarModule
+
+Lunar Module is a open-source sample app from Microsoft's Mixed Reality Design Labs, it is a spiritual sequel to the 1979 Atari classic, *Lunar Lander*. This sample app will demonstrate how to extend Hololens' base gestures with two hand tracking and xbox controller input, reactive objects to surface mapping and plane finding, and simple menu systems. You can use this project's components to create your own mixed reality app experience. 
+
+
+
+
+# Contributing
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.

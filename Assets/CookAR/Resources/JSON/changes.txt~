@@ -1,0 +1,19 @@
+----------------------------------------------------------
+	Orig Field 		- 	Changed Field
+----------------------------------------------------------
+
+	name				name
+	source				source
+	id				symbol
+	calorie				number
+	ingredients			summary	
+	Atomic Number			servings
+	Atomic Weight(atomic_mass)	Prep Time (preptime)
+	Melting Point(melt)		Wait Time (waittime)
+	Boiling Point(boil)		Cook Time (cooktime)
+
+
+:map 1 yyngt
+:map 2 ddgt1Pjn
+	
+
