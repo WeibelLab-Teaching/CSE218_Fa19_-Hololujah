@@ -51,7 +51,7 @@ Select your favorite recipe using three options for different times:-
  
 ## Testing 
 
-![Testing](https://i.imgur.com/wIN6RdW.png)
+![Testing](https://i.imgur.com/alEG4HQ.png)
 
 ## Authors
 
