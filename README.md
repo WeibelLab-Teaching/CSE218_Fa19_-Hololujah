@@ -51,7 +51,8 @@ Select your favorite recipe using three options for different times:-
  
 ## Testing 
 
-![Testing]https://i.imgur.com/undefined.png
+![Testing](https://i.imgur.com/undefined.png)
+
 ## Authors
 
 * [Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
