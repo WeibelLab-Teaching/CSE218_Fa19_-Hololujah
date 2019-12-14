@@ -3,13 +3,14 @@
 * [Installation](#Installation)
 * [Demo](#Demo)
 * [Authors](#Authors)
+* [Thanks](#Thanks)
 ## Description
 
 ### What is CookAR? 
 <p align="center">
   <img width="460" height="460" src="https://i.imgur.com/IX35SDZ.png">
 </p>
-CookAR is a project aimed at providing a faster and better cooking experience for everyday lives. Essentially, this is done by using an open source cooking recipe database in the backend, approved for our use by the very kind #Tab Atkins# and a Unity Frontend. 
+CookAR is a project aimed at providing a faster and better cooking experience for everyday lives. Essentially, this is done by using an open source cooking recipe database in the backend and a Unity Frontend. 
 
 ### Why CookAR? 
 One-third of all food produced is wasted, and traditional challenges with cooking such as lack of recipes to select from, indecision on what to cook, dirty hands and distractions that can prove to be deadly still exist. Therefore, here we look at a way to alleviate these chaklenges by using a AR application used on the Microsoft Hololens I. 
@@ -42,3 +43,7 @@ Click on the above icon to play the demo video for our project
 * Raghav Kalayanasundaram Subramanian
 * Dharmendra Chaturvedi
 * Dan Xu
+
+## Thanks
+
+Thanks to Tab Atkins for approving the use of this recipe database for our project
