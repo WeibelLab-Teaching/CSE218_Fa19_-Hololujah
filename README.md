@@ -6,6 +6,7 @@
 * [Authors](#Authors)
 * [Testing and Feedback](#Testing)
 * [Thanks](#Thanks)
+* [Technologies used](#Technology Used)
 * [Wiki](https://github.com/WeibelLab-Teaching/CSE218_Fa19_Hololujah/wiki)
 ## Description
 
@@ -62,3 +63,8 @@ Select your favorite recipe using three options for different times:-
 ## Thanks
 
 Thanks to Tab Atkins for approving the use of this recipe database for our project!
+
+## Technology Used
+
+Mixed Reality Toolkit, Unity, Xanthir recipe database, JSONUtility
+
