@@ -40,10 +40,10 @@ Click on the above icon to play the demo video for our project
 
 ## Authors
 
-* Raghav Kalayanasundaram Subramanian
-* Dharmendra Chaturvedi
-* Dan Xu
+* ![Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
+* ![Dharmendra Chaturvedi](https://github.com/dheeru487)
+* ![Dan Xu](https://github.com/xudaaaaan)
 
 ## Thanks
 
-Thanks to Tab Atkins for approving the use of this recipe database for our project
+Thanks to Tab Atkins for approving the use of this recipe database for our project!
