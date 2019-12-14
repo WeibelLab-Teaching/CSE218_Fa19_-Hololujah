@@ -39,6 +39,6 @@ Click on the above icon to play the demo video for our project
 
 ## Authors
 
-Raghav Kalayanasundaram Subramanian
-Dharmendra Chaturvedi
-Dan Xu
+* Raghav Kalayanasundaram Subramanian
+* Dharmendra Chaturvedi
+* Dan Xu
