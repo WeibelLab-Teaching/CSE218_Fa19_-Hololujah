@@ -2,7 +2,7 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Demo](#Demo)
-* [UX Experiments](#UX-Experiments)
+* [Team] [#Team]
 ## Description
 
 ### What is CookAR? 
@@ -36,8 +36,13 @@ The right unity version can be selected ![here](https://unity3d.com/get-unity/do
 [![Demo video](https://i.imgur.com/IX35SDZ.png) ](https://youtu.be/bmc1WXyR_zc) 
 
 Click on the above icon to play the demo video for our project 
-## UX Experiments
 
-* Color vs Lookup - 47% Faster Lookup based on Taste Palette
-* UX touch and feel 
-* "Get it" studies
+## Authors
+
+Raghav Kalayanasundaram Subramanian
+Dharmendra Chaturvedi
+Dan Xu
+
+## Acknowledgements
+Tab Atkins 
+
