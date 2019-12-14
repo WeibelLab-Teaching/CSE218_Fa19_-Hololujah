@@ -61,6 +61,8 @@ Also based on feedback during our demo presentation, we can add:-
 * integration of the video with stepwise pause and play
 * probable collaboration based applications
 
+For more detailed information visit [the wiki page](https://github.com/WeibelLab-Teaching/CSE218_Fa19_Hololujah/wiki/Usability-Testing-and-Evaluation)
+
 ## Authors
 
 * [Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
