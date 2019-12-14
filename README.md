@@ -4,6 +4,7 @@
 * [Demo](#Demo)
 * [Authors](#Authors)
 * [Thanks](#Thanks)
+* [Wiki](https://github.com/WeibelLab-Teaching/CSE218_Fa19_Hololujah/wiki)
 ## Description
 
 ### What is CookAR? 
