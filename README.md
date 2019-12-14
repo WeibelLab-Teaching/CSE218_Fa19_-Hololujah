@@ -56,6 +56,11 @@ Select your favorite recipe using three modes:-
 
 ![Testing](https://i.imgur.com/alEG4HQ.png)
 
+Also based on our demo presentation, we can add:- 
+* cursor support to know where someone is clicking
+* integration of the video with stepwise pause and play
+* probable collaboration based applications
+
 ## Authors
 
 * [Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
@@ -70,3 +75,13 @@ Thanks to Tab Atkins for approving the use of this recipe database for our proje
 
 Mixed Reality Toolkit, Unity, Xanthir recipe database, JSONUtility
 
+## Future work
+
+Our app was succesful in terms of recipe lookup via one of the three scenes and the related application, for this. Particularly, our lookup times scale very well even with addition of new elements. Also, with our interface we found that the organization was very organic and easy to use towards development. 
+
+1. Full integrated support for speech parsing 
+2. Actual texture and cooking process related integration 
+
+## Reference
+
+We used some prefabs and positional aspects from the MRTK sample applications towards accelerating development here. 
