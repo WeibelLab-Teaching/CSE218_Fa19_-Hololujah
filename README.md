@@ -40,9 +40,9 @@ Click on the above icon to play the demo video for our project
 
 ## Authors
 
-* ![Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
-* ![Dharmendra Chaturvedi](https://github.com/dheeru487)
-* ![Dan Xu](https://github.com/xudaaaaan)
+* [Raghav Kalayanasundaram Subramanian](https://github.com/rksubram)
+* [Dharmendra Chaturvedi](https://github.com/dheeru487)
+* [Dan Xu](https://github.com/xudaaaaan)
 
 ## Thanks
 
