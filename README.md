@@ -2,7 +2,7 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Demo](#Demo)
-* [Authors] [#Authors]
+* [Authors](#Authors)
 ## Description
 
 ### What is CookAR? 
