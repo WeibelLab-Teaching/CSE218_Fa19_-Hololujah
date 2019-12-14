@@ -44,11 +44,13 @@ Click on the above icon to play the demo video for our project
 
 ## Features
 
-Select your favorite recipe using three options for different times:- 
+Select your favorite recipe using three modes:- 
 
- * Ideas and Inspiration when you're Lazy:- Check out the Taste palette if you ever run out of recipe ideas and to get a spread of recipes to check out. 
- * Exciting and quick when you just need something to cook:- Just get a surprise recipe to cook. Adds to the suspense, and you can use this to get something arbitrary to cook
- * Targeted search when you have something in mind:- Use textboxes and search tags to get your recipe of choice 
+ * 'Taste Palette' - Ideas and Inspiration when you're Lazy:- Check out the Taste palette if you ever run out of recipe ideas and to get a spread of recipes to check out. 
+ * 'Surprise Me!' = Exciting and quick when you just need something to cook:- Just get a surprise recipe to cook. Adds to the suspense, and you can use this to get something arbitrary to cook
+ * 'Search' - Targeted search when you have something in mind:- Use textboxes and search tags to get your recipe of choice 
+ 
+ Also, as part of this application we support 100+ recipes with room for more
  
 ## Testing 
 
